@@ -1,3 +1,4 @@
+# Author: Gil Ferreira Hoben
 import numpy as np
 from itertools import permutations
 

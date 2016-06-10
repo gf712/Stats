@@ -1,3 +1,4 @@
+# Author: Gil Ferreira Hoben
 import numpy as np
 
 def pfs_(labels,X, cluster_centre=None):
